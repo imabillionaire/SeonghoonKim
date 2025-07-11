@@ -62,6 +62,8 @@ namespace PrimitiveTypesToBinary
             //어머나3;
             Console.WriteLine("어머나3");
 
+            //어머나4;
+            Console.WriteLine("어머나4");
         }
     }
 }
